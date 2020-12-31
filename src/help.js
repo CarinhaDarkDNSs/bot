@@ -13,6 +13,6 @@ desc: banir um membro do grupo.\n\n
 desc: adicionar um membro no grupo. *(somente admins)*\n\n\n`
 }
 
-exports.help = comandos
+exports.help = help
 
 
